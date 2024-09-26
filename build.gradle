@@ -1,0 +1,3 @@
+plugins {
+  id "com.github.node-gradle.node" bersion "7.0.0"
+}
